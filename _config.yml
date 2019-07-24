@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Fushan Li
 description:
-baseurl: "FushanLi.github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://fushanli.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: li_fushan
 github_username:  fushanli
 linkedin_username: fushan-li-36468382
