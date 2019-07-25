@@ -6,7 +6,7 @@ layout: home
 ---
 <img style='float: right;' width='250' height='250' src='circle.png'>
 
-## About me
+## About Me
 I am Fushan Li. I am a MSc student in Computer Science at the University of Alberta. I am fortunate enough to work with my advisors, [Prof. Michael Bowling](https://webdocs.cs.ualberta.ca/~bowling/index.html) and [Prof. Dale Schuurmans](https://webdocs.cs.ualberta.ca/~dale/). 
 I am interested in problems of making machines possess intelligence and language capabilities.
 
