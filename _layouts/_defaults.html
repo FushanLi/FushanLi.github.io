@@ -2,10 +2,9 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
   <head>
-    {% include head.html %}
-    {% seo %}
-  <meta name="google-site-verification" content="SrLSb-JqsiW8Juo4Z1TICZRCdp6qaKwg_xMAFpyhDKA" />
-
+  {% if site.google_verify %}
+      <meta name="google-site-verification" content="{{ site.google_verify }}">
+  {% endif %}
   </head>
 
   <body>
