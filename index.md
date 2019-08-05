@@ -1,6 +1,7 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+<meta name="google-site-verification" content="SrLSb-JqsiW8Juo4Z1TICZRCdp6qaKwg_xMAFpyhDKA" />
 
 layout: home
 ---
