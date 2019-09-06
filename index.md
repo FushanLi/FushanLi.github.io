@@ -35,7 +35,7 @@ Web Development Intern, SAP Labs China\\
 
 ## Publications
 
-F. Li and M. Bowling. **Ease-of-Teaching and Language Structure from Emergent Communication}** [arXiv](https://arxiv.org/abs/1906.02403)\\
+F. Li and M. Bowling. **Ease-of-Teaching and Language Structure from Emergent Communication** [arXiv](https://arxiv.org/abs/1906.02403)\\
 *Neural Information Processing Systems (NeurIPS), 2019*\\
 *A contributed talk on a short version at NeurIPS Workshop on Emergent Communication, 2018*
 
