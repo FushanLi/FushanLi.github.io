@@ -33,14 +33,14 @@ Reseach Intern, Scalable Natural Language Processing, IBM Research\\
 Web Development Intern, SAP Labs China\\
 *2015.07 - 2016.01, Shanghai, China*
 
-## Papers
+## Publications
 
 Ease-of-Teaching and Language Structure from Emergent Communication [arXiv](https://arxiv.org/abs/1906.02403)\\
 *Neural Information Processing Systems (NeurIPS), 2019*\\
-*A short version as a contributed talk at NeurIPS Workshop on Emergent Communication, 2018*
+*A contributed talk on a short version at NeurIPS Workshop on Emergent Communication, 2018*
 
 A Novel Boundary Based Multiobjective Particle Swarm Optimization [paper](https://link.springer.com/chapter/10.1007/978-3-319-20466-6_17)\\
-*International Conference in Swarm Intelligence 2015*
+*International Conference in Swarm Intelligence, 2015*
 
 
 
