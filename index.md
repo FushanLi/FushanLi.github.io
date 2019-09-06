@@ -35,11 +35,11 @@ Web Development Intern, SAP Labs China\\
 
 ## Publications
 
-Ease-of-Teaching and Language Structure from Emergent Communication [arXiv](https://arxiv.org/abs/1906.02403)\\
+\underline{F. Li} and M. Bowling. Ease-of-Teaching and Language Structure from Emergent Communication [arXiv](https://arxiv.org/abs/1906.02403)\\
 *Neural Information Processing Systems (NeurIPS), 2019*\\
 *A contributed talk on a short version at NeurIPS Workshop on Emergent Communication, 2018*
 
-A Novel Boundary Based Multiobjective Particle Swarm Optimization [paper](https://link.springer.com/chapter/10.1007/978-3-319-20466-6_17)\\
+\underline{F. Li}, S. Xie and Q. Ni. A Novel Boundary Based Multiobjective Particle Swarm Optimization [paper](https://link.springer.com/chapter/10.1007/978-3-319-20466-6_17)\\
 *International Conference in Swarm Intelligence, 2015*
 
 
