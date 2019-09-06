@@ -11,7 +11,7 @@ I am Fushan Li. I am a MSc student in Computer Science at the University of Albe
 I am fortunate enough to work with my advisors, [Prof. Michael Bowling](https://webdocs.cs.ualberta.ca/~bowling/index.html) and [Prof. Dale Schuurmans](https://webdocs.cs.ualberta.ca/~dale/). 
 <!-- I am interested in problems of making machines possess intelligence and language capabilities. -->
 I am particularly interested in reinforcement learning, deep learning, \\
-and natural language processing.
+and natural language understanding.
 
 You can reach me at fushan AT ualberta dot ca.
 
