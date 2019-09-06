@@ -36,8 +36,8 @@ Web Development Intern, SAP Labs China\\
 ## Papers
 
 Ease-of-Teaching and Language Structure from Emergent Communication [arXiv](https://arxiv.org/abs/1906.02403)\\
-*Accepted at Neural Information Processing Systems (NeurIPS), 2019*
-*A short version was accepted at Emergent Communication Workshop @ NeuIPS 2018.*
+*Accepted at Neural Information Processing Systems (NeurIPS), 2019*\\
+*A short version accepted as a contributed talk at Emergent Communication Workshop @ NeuIPS 2018.*
 
 A Novel Boundary Based Multiobjective Particle Swarm Optimization [paper](https://link.springer.com/chapter/10.1007/978-3-319-20466-6_17)\\
 *Accepted at International Conference in Swarm Intelligence 2015.*
