@@ -19,18 +19,18 @@ You can reach me at fushan AT ualberta dot ca.
 
 ## Education
 
-M.Sc. in Computing Science, University of Alberta, GPA: 4.0/4.0\\
+M.Sc. in Computing Science, **University of Alberta**, GPA: 4.0/4.0\\
 *2016.09 - 2019.09, Edmonton, Canada* 
 
-B.Eng. in Computer Science and Technology, Southeast University, GPA: 87/100\\
+B.Eng. in Computer Science and Technology, **Southeast University**, GPA: 87/100\\
 *2012.09 - 2016.06, Nanjing, China*
 
 ## Industry
 
-Reseach Intern, Scalable Natural Language Processing, IBM Research\\
+Reseach Intern, Scalable Natural Language Processing, **IBM Research**\\
 *2018.06 - 2018.08, Almaden, CA, United States*
 
-Web Development Intern, SAP Labs China\\
+Web Development Intern, **SAP Labs China**\\
 *2015.07 - 2016.01, Shanghai, China*
 
 ## Publications
