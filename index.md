@@ -4,10 +4,12 @@
 
 layout: home
 ---
-<img style='float: right;' width='225' height='225' src='circle.png'>
+
 
 ## About Me
 I am Fushan Li. I work at Amazon as a machine learning engineer in Vancouver, Canada. I am excited about applying reinforcement learning, deep learning and AI research to real-world applications.
+
+<img style='float: right;' width='225' height='225' src='circle.png'>
 
 Before that, I earned my MSc degree in Computer Science at the University of Alberta. 
 During my Masters, I was fortunate enough to work with my advisors, [Prof. Michael Bowling](https://webdocs.cs.ualberta.ca/~bowling/index.html) and [Prof. Dale Schuurmans](https://webdocs.cs.ualberta.ca/~dale/). 
