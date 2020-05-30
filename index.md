@@ -8,6 +8,7 @@ layout: home
 
 ## About Me
 <img style='float: right;' width='225' height='225' src='circle.png'>
+
 I am Fushan Li. I work at Amazon as a machine learning engineer in Vancouver, Canada. I am excited about applying reinforcement learning, deep learning and AI research to real-world applications.
 
 Before that, I earned my MSc degree in Computer Science at the University of Alberta. 
