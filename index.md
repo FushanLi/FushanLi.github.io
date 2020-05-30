@@ -7,23 +7,17 @@ layout: home
 <img style='float: right;' width='250' height='250' src='circle.png'>
 
 ## About Me
-I am Fushan Li. I am a MSc student in Computer Science at the University of Alberta. 
-I am fortunate enough to work with my advisors, [Prof. Michael Bowling](https://webdocs.cs.ualberta.ca/~bowling/index.html) and [Prof. Dale Schuurmans](https://webdocs.cs.ualberta.ca/~dale/). 
+I am Fushan Li. I work at Amazon as a machine learning engineer in Vancouver, Canada. 
+Before that, I've earned my MSc degree in Computer Science at the University of Alberta. 
+During my Masters, I am fortunate enough to work with my advisors, [Prof. Michael Bowling](https://webdocs.cs.ualberta.ca/~bowling/index.html) and [Prof. Dale Schuurmans](https://webdocs.cs.ualberta.ca/~dale/). 
+And I had a [paper](https://papers.nips.cc/paper/9714-ease-of-teaching-and-language-structure-from-emergent-communication) published at NeurIPS on multi-agent learning.
 <!-- I am interested in problems of making machines possess intelligence and language capabilities. -->
-I am particularly interested in reinforcement learning, deep learning, \\
-and natural language understanding.
+<!-- I am particularly interested in applications of reinforcement learning, deep learning. -->
+I am excited about applying reinforcement learning, deep learning and AI research to read-world applications.
 
-You can reach me at fushan AT ualberta dot ca.
+You can reach me at fushanseu AT gmail dot com.
 
 <br />
-
-## Education
-
-M.Sc. in Computing Science, **University of Alberta**, GPA: 4.0/4.0\\
-*2016.09 - 2019.09, Edmonton, Canada* 
-
-B.Eng. in Computer Science and Technology, **Southeast University**, GPA: 87/100\\
-*2012.09 - 2016.06, Nanjing, China*
 
 ## Industry
 
@@ -32,6 +26,14 @@ Reseach Intern, Scalable Natural Language Processing, **IBM Research**\\
 
 Web Development Intern, **SAP Labs China**\\
 *2015.07 - 2016.01, Shanghai, China*
+
+## Education
+
+M.Sc. in Computing Science, **University of Alberta**, GPA: 4.0/4.0\\
+*2016.09 - 2019.09, Edmonton, Canada* 
+
+B.Eng. in Computer Science and Technology, **Southeast University**, GPA: 87/100\\
+*2012.09 - 2016.06, Nanjing, China*
 
 ## Publications
 
