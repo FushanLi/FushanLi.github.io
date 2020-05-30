@@ -19,7 +19,7 @@ You can reach me at fushanseu AT gmail dot com.
 
 ## Industry
 
-Machine learning engineer **Amazon**\\
+Machine learning engineer, **Amazon**\\
 *2020.03 - now, Vancouver, BC, Canada*
 
 Reseach Intern, Scalable Natural Language Processing, **IBM Research**\\
