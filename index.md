@@ -4,9 +4,8 @@
 
 layout: home
 ---
-
-
 ## About Me
+
 <img style='float: right;' width='225' height='225' src='circle.png'>
 
 I am Fushan Li. I work at Amazon as a machine learning engineer in Vancouver, Canada. I am excited about applying reinforcement learning, deep learning and AI research to real-world applications.
@@ -21,7 +20,7 @@ You can reach me at fushanseu AT gmail dot com.
 
 ## Industry
 
-Machine learning engineer, **Amazon**\\
+Machine Learning Engineer, **Amazon**\\
 *2020.03 - now, Vancouver, BC, Canada*
 
 Reseach Intern, Scalable Natural Language Processing, **IBM Research**\\
