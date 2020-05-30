@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<img style='float: right;' width='250' height='250' src='circle.png'>
+<img style='float: right;' width='225' height='225' src='circle.png'>
 
 ## About Me
 I am Fushan Li. I work at Amazon as a machine learning engineer in Vancouver, Canada. I am excited about applying reinforcement learning, deep learning and AI research to real-world applications.
