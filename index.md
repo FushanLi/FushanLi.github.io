@@ -15,7 +15,6 @@ During my Masters, I was fortunate enough to work with my advisors, [Prof. Micha
 I had a [paper](https://papers.nips.cc/paper/9714-ease-of-teaching-and-language-structure-from-emergent-communication) published at NeurIPS on multi-agent reinforcement learning with Prof. Bowling.
 
 You can reach me at fushanseu AT gmail dot com.
-
 <br />
 
 ## Industry
@@ -45,6 +44,4 @@ F. Li and M. Bowling. **Ease-of-Teaching and Language Structure from Emergent Co
 
 F. Li, S. Xie and Q. Ni. **A Novel Boundary Based Multiobjective Particle Swarm Optimization** [paper](https://link.springer.com/chapter/10.1007/978-3-319-20466-6_17)\\
 *International Conference in Swarm Intelligence, 2015*
-
-
 
