@@ -15,6 +15,7 @@ During my Masters, I was fortunate enough to work with my advisors, [Prof. Micha
 I had a [paper](https://papers.nips.cc/paper/9714-ease-of-teaching-and-language-structure-from-emergent-communication) published at NeurIPS on multi-agent reinforcement learning with Prof. Bowling.
 
 You can reach me at fushanseu AT gmail dot com.
+
 <br />
 
 ## Industry
