@@ -4,7 +4,7 @@
 
 layout: home
 ---
-## About Me
+<!-- ## About Me -->
 
 <img style='float: right;' width='225' height='225' src='circle.png'>
 
