@@ -9,17 +9,18 @@ layout: home
 ## About Me
 I am Fushan Li. I work at Amazon as a machine learning engineer in Vancouver, Canada. 
 Before that, I've earned my MSc degree in Computer Science at the University of Alberta. 
-During my Masters, I am fortunate enough to work with my advisors, [Prof. Michael Bowling](https://webdocs.cs.ualberta.ca/~bowling/index.html) and [Prof. Dale Schuurmans](https://webdocs.cs.ualberta.ca/~dale/). 
-And I had a [paper](https://papers.nips.cc/paper/9714-ease-of-teaching-and-language-structure-from-emergent-communication) published at NeurIPS on multi-agent learning.
-<!-- I am interested in problems of making machines possess intelligence and language capabilities. -->
-<!-- I am particularly interested in applications of reinforcement learning, deep learning. -->
-I am excited about applying reinforcement learning, deep learning and AI research to read-world applications.
+During my Masters, I was fortunate enough to work with my advisors, [Prof. Michael Bowling](https://webdocs.cs.ualberta.ca/~bowling/index.html) and [Prof. Dale Schuurmans](https://webdocs.cs.ualberta.ca/~dale/). 
+And Prof.Bowling and I had a [paper](https://papers.nips.cc/paper/9714-ease-of-teaching-and-language-structure-from-emergent-communication) published at NeurIPS on multi-agent learning.
+Now I am excited about applying reinforcement learning, deep learning and AI research to read-world applications.
 
 You can reach me at fushanseu AT gmail dot com.
 
 <br />
 
 ## Industry
+
+Machine learning engineer **Amazon**\\
+*2020.03 - now, Vancouver, BC, Canada*
 
 Reseach Intern, Scalable Natural Language Processing, **IBM Research**\\
 *2018.06 - 2018.08, Almaden, CA, United States*
